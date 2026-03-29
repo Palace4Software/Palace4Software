@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Welcome to Palace4Software
 
-<!--
-**Palace4Software/Palace4Software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Our public repositories on GitHub are no longer actively maintained.  
+We now **mirror our open‑source code to CodeBerg**, while active development takes place internally.
 
-Here are some ideas to get you started:
+👉 **Public mirrors:**  
+[View our public repositories on CodeBerg](https://codeberg.org/Palace4Software)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Official website:**  
+[Visit the Palace4Software website](https://palace4software.eu)
+
+---
+
+## ℹ️ About This Change
+
+- Development has moved to our internal infrastructure  
+- CodeBerg hosts the public mirrors of our projects  
+- GitHub is no longer part of our workflow  
+- This profile remains only as an informational reference
+
+---
+
+## 📦 Where to Find Our Public Code
+
+You can browse the mirrored repositories here:
+
+🔗 [Public mirrors on CodeBerg](https://codeberg.org/Palace4Software)
+
+Issues, discussions, and contributions are handled through our internal systems.
+
+---
+
+## 🛈 Note
+
+This GitHub profile is no longer used for development.  
+For public access to our code, please refer to **CodeBerg**.
